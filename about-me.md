@@ -1,5 +1,4 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
+Current im on my 2nd year at Harford Community college, located in Bel Air, Maryland. Planning on transferring to Towson University I am pursuing a Bachelor’s degree in Cyber Security. My expected graduation date is in 2026
 
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
 
