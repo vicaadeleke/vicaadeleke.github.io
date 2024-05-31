@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Victor Adeleke
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
+This week I was able to meet up with Dr. Peng, as well as my graduate mentor and my other group member, 
+During this meeting we were able to discuss our project and get a little more insight on what we were going 
+to be accomplishing. A couple findings i've made is how I need to sharpen my skills on Python so I can be successful
+during this internship. The algorithm that I used this week was Logistic Regression
 
 [Back](./)
