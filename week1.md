@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by: Victor Adeleke
+author: Victor Adeleke
 ---
 
 This week I was able to meet up with Dr. Peng, as well as my graduate mentor and my other group member, 
