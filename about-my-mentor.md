@@ -1,6 +1,6 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+Dr. Zheng Li is an assistant professor in the Mechatronics Engineering Department. He received his B.Eng. in Energy and Power Engineering at University of Shanghai for Science and Technology, and Ph.D. in Mechanical and Aerospace Engineering at University of Missouri-Columbia. Before joining Morgan State University, Dr. Li was a research assistant professor in the Mechanical Engineering Department at Vanderbilt University. 
 
 [Mentor's Website](https://htilua.org/about-the-pi)
 
