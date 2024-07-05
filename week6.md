@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 2
+title: Week 6
 author: Victor Adeleke
 ---
 Week 6 half way through the internship and it's been going smooth for me and my group. This week 
